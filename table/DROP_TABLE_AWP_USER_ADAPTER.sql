@@ -1,0 +1,4 @@
+
+DROP TABLE AWP_USER_ADAPTER;
+
+commit;
